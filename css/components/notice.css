@@ -1,0 +1,7 @@
+.notice-mark {
+  background-color: tomato;
+  display: block;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+}
